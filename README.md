@@ -13,3 +13,4 @@
 ## 上网目的相关      
 ① [影视剧资源分享及羊毛优惠活动分享](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)      
 ② [远鉴字幕组发布频道](https://t.me/joinchat/AAAAAE3AeBfFEPXuMGLzWw)       
+③ [霸王龙压制组发布频道](https://t.me/T_rex2333)            
