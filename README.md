@@ -21,5 +21,5 @@
 * [霸王龙压制组发布频道](https://t.me/T_rex2333)            
 * [奈飞小铺奈飞影视剧推荐频道](https://t.me/netflixmv)         
 
-# 友情链接         
+## 友情链接         
 * [奈菲影视](https://www.nfmovies.com/)          
