@@ -10,6 +10,9 @@
 ① [telegram官方下载地址](https://telegram.org/apps)           
 ② [telegram汉化链接](https://t.me/setlanguage/classic-zh)      
 
+### Netflix/奈飞/Youtube/Spotify正规账号合租       
+① [宝宝龙的奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)
+
 ## 上网目的相关      
 ① [影视剧资源分享及羊毛优惠活动分享](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)      
 ② [远鉴字幕组发布频道](https://t.me/joinchat/AAAAAE3AeBfFEPXuMGLzWw)       
