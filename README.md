@@ -14,7 +14,7 @@
 ① [宝宝龙的奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)
 
 ## 上网目的相关     
-① [奈菲影视](https://www.nfmovies.com/)     
+① [奈菲影视免费在线看影视剧综艺](https://www.nfmovies.com/)     
 ② [影视剧资源分享及羊毛优惠活动分享](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)      
 ③ [远鉴字幕组发布频道](https://t.me/joinchat/AAAAAE3AeBfFEPXuMGLzWw)       
 ④ [霸王龙压制组发布频道](https://t.me/T_rex2333)            
