@@ -26,6 +26,7 @@
 * [远鉴字幕组发布频道](https://t.me/joinchat/AAAAAE3AeBfFEPXuMGLzWw)       
 * [霸王龙压制组发布频道](https://t.me/T_rex2333)            
 * [奈飞小铺奈飞影视剧推荐频道](https://t.me/netflixmv)         
+* [未成年止步频道](https://t.me/FBIWARNING911)            
 
 ## 友情链接         
 * [奈菲影视](https://www.nfmovies.com/)          
