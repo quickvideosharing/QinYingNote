@@ -21,7 +21,7 @@
 
 ### 播放器/浏览器
 * [PC播放器](./tool/PCBoFangQi.md)            
-* [手机浏览器(播放器)](./tool/ShoujiLiuLanQi.md)                 
+* [手机浏览器(播放器)](./tool/SShouJiLiuLanQi.md)                 
 
 ## 上网目的相关     
 * [奈菲影视免费在线看影视剧综艺](https://www.nfmovies.com/)     
