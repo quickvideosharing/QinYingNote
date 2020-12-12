@@ -7,9 +7,10 @@
 * [老牌奈飞机场/广义翻墙VPN/梯子](https://t.me/QinShadowNote/2)        
 * [路由翻墙/x86_64/ARM软路由/硬路由/passwall/ssrp/openclash/OpenWRT固件](https://t.me/OpenWRTcn)        
 
-### telegram全平台客户端   
+### telegram全平台客户端/匿名邮箱 
 * [telegram官方下载地址](https://telegram.org/apps)           
 * [telegram汉化链接](https://t.me/setlanguage/classic-zh)      
+* [著名匿名邮箱服务商protonmail](https://protonmail.com/)          
 
 ### Netflix/奈飞/Youtube/Spotify正规账号合租       
 * [宝宝龙的奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)
