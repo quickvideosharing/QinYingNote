@@ -4,7 +4,7 @@
 ## 上网工具相关
 
 ### 机场/奈飞机场/翻墙/科学上网/梯子/广义VPN           
-* [老牌奈飞机场/广义翻墙VPN/梯子](https://t.me/QinShadowNote/2)        
+* [老牌奈飞机场/广义翻墙VPN/梯子](./tool/Airport.md)        
 * [路由翻墙/x86_64/ARM软路由/硬路由/passwall/ssrp/openclash/OpenWRT固件](https://t.me/OpenWRTcn)        
 
 ### telegram全平台客户端/匿名邮箱 
