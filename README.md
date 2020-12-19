@@ -18,9 +18,10 @@
 ### Netflix/奈飞/Youtube/Spotify正规账号合租       
 * [宝宝龙的奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)
 
-### Chrome/Edge浏览器拓展插件      
+### Chrome/Edge浏览器拓展插件/实用网站      
 * [哔哩哔哩B站视频下载助手](https://chrome.google.com/webstore/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/bfcbfobhcjbkilcbehlnlchiinokiijp)     
-* [网页在线视频自定义播放倍速插件](https://chrome.google.com/webstore/detail/video-speed-manager/fkopaaikpmfhpmoobnmklgmcgmhgfkcd)      
+* [网页在线视频自定义播放倍速插件](https://chrome.google.com/webstore/detail/video-speed-manager/fkopaaikpmfhpmoobnmklgmcgmhgfkcd)       
+* [在线下载Instagram照片和视频](https://www.instaloadgram.com/zh/)            
 
 ### 播放器/浏览器
 * [PC播放器](./tool/PCBoFangQi.md)            
