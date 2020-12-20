@@ -8,7 +8,7 @@
 
 ### 机场/奈飞机场/翻墙/科学上网/梯子/广义VPN           
 * [老牌奈飞机场/广义翻墙VPN/梯子](./tool/Airport.md)        
-* [路由翻墙/x86_64/ARM软路由/硬路由/passwall/ssrp/openclash/OpenWRT固件](https://t.me/OpenWRTcn)        
+* [路由翻墙/x86_64/ARM软路由/硬路由/passwall/ssrp/openclash/OpenWrt固件](https://t.me/OpenWRTcn)        
 
 ### telegram全平台客户端/匿名邮箱 
 * [telegram官方下载地址](https://telegram.org/apps)           
