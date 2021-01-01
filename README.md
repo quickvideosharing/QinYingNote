@@ -26,6 +26,7 @@
 * [手机浏览器(播放器)](./tool/ShouJiLiuLanQi.md)       
 
 ## 上网目的相关     
+* [奈菲影视安卓APP下载页](https://www.nfmovies.com/app.html)          
 * [奈菲影视免费在线看影视剧综艺](https://www.nfmovies.com/)     
 * [奈菲影视官方交流反馈群](https://t.me/joinchat/KmUaGRMWdO29JVd3wcCHCg)     
 * [影视剧资源分享及羊毛优惠活动分享](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)      
