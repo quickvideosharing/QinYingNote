@@ -29,17 +29,12 @@
 ## 上网目的相关     
 * [奈菲影视安卓APP下载页](https://www.nfmovies.com/app.html)          
 * [奈菲影视免费在线看影视剧综艺](https://www.nfmovies.com/)     
-* [奈菲影视官方交流反馈群](https://t.me/joinchat/KmUaGRMWdO29JVd3wcCHCg)     
 * [影视剧资源分享及羊毛优惠活动分享](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)      
-* [远鉴字幕组发布频道](https://t.me/joinchat/AAAAAE3AeBfFEPXuMGLzWw)       
-* [霸王龙压制组发布频道](https://t.me/T_rex2333)            
-* [奈飞小铺奈飞影视剧推荐频道](https://t.me/netflixmv)         
+* [远鉴字幕组发布频道](https://t.me/joinchat/AAAAAE3AeBfFEPXuMGLzWw)          
 * [未成年止步频道](https://t.me/joinchat/AAAAAEXqWisZQOtbw64IMw)            
 
 ## 友情链接         
 * [奈菲影视](https://www.nfmovies.com/)          
-* [阿房影视](https://epang.ml/)     
-* [奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)    
 
 本页面合作联系：[沁影](https://t.me/QinShadow)       
 ![鸡腿姑娘](./logo.jpg)       
