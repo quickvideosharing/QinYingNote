@@ -1,4 +1,4 @@
-# 
+# IDM下载GD
 
 * [下载视频教程观看](https://github.com/quickvideosharing/QinYingNote/raw/main/yjnb/IDM%E4%B8%8B%E8%BD%BDGD/IDM%E4%B8%8B%E8%BD%BDGD.mp4)             
 * 最新IDM下载谷歌盘补充说明：      
