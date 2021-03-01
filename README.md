@@ -34,6 +34,7 @@
 * [在线Logo设计](https://www.designevo.com/cn/logo-maker/)               
 * [LaTeX公式编辑器](https://www.latexlive.com/)               
 * [360查字体](https://fonts.safe.360.cn/)            
+* [百度视频翻译](http://fanyi-video.baidu.com/)          
 
 ### 播放器/浏览器
 * [PC播放器](./tool/PCBoFangQi.md)            
