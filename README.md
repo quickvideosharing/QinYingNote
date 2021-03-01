@@ -42,7 +42,8 @@
 * [LaTeX公式编辑器](https://www.latexlive.com/)               
 * [360查字体](https://fonts.safe.360.cn/)            
 * [百度视频翻译](http://fanyi-video.baidu.com/)          
-
+* [全球IPTV直播及回看](https://supergo.tv/)          
+* 
 ### 播放器/浏览器
 * [PC播放器](./tool/PCBoFangQi.md)            
 * [手机浏览器(播放器)](./tool/ShouJiLiuLanQi.md)        
