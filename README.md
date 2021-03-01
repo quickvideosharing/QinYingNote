@@ -24,6 +24,9 @@
 * [短网址工具](https://www.mynb8.com/)                  
 * [短网址](https://www.ft12.com/)        
 * [聚合图床](https://www.superbed.cn/)                                             
+* [网站图标favicon在线生成](https://tool.lu/favicon)               
+* [日期计算](http://bjtime.cn/riqi/)                 
+*            
 * 
 
 ### 播放器/浏览器
