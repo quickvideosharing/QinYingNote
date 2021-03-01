@@ -9,7 +9,7 @@
 * [远鉴字幕组发布频道](https://t.me/joinchat/AAAAAE3AeBfFEPXuMGLzWw)          
 * [未成年止步频道](https://t.me/joinchat/AAAAAEXqWisZQOtbw64IMw)           
 * [今日热榜](https://tophub.today/)            
-* [火绒安全论坛](https://bbs.huorong.cn/index.php)              
+* [火绒安全论坛](https://bbs.huorong.cn)              
 
 
 ## 上网工具相关
