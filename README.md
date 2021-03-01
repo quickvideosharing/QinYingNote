@@ -31,7 +31,7 @@
 * [我告诉你](https://next.itellyou.cn)                                      
 * [云萌Windows10激活工具](https://cmwtat.cloudmoe.com/cn.html)        
 * [宝塔，简单好用的服务器运维面板](https://www.bt.cn/)                    
-*                 
+* [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)                           
 * [Chrome离线包备份频道](https://t.me/joinchat/VFvmXBJDwNlXH567)        
 * [哔哩哔哩B站视频下载助手](https://chrome.google.com/webstore/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/bfcbfobhcjbkilcbehlnlchiinokiijp)     
 * [网页在线视频自定义播放倍速插件](https://chrome.google.com/webstore/detail/video-speed-manager/fkopaaikpmfhpmoobnmklgmcgmhgfkcd)       
