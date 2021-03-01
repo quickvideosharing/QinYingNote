@@ -30,8 +30,8 @@
 * [聚合图床](https://www.superbed.cn/)                                             
 * [网站图标favicon在线生成](https://tool.lu/favicon)               
 * [日期计算](http://bjtime.cn/riqi/)                 
-*            
-* 
+* [Telegraph匿名文章发布](https://telegra.ph/)                                      
+* [在线Logo设计](https://www.designevo.com/cn/logo-maker/)               
 
 ### 播放器/浏览器
 * [PC播放器](./tool/PCBoFangQi.md)            
