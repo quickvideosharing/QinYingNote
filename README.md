@@ -18,7 +18,8 @@
 ### telegram全平台客户端/匿名邮箱 
 * [telegram官方下载地址](https://telegram.org/apps)           
 * [telegram汉化链接](https://t.me/setlanguage/classic-zh)      
-* [著名匿名邮箱服务商protonmail](https://protonmail.com/)          
+* [著名匿名邮箱服务商protonmail](https://protonmail.com/)     
+* [临时邮箱](https://linshiyouxiang.net/)              
 
 ### Netflix/奈飞/Youtube/Spotify正规账号合租       
 * [宝宝龙的奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)
