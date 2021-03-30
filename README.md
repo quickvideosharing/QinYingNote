@@ -25,7 +25,7 @@
 * [著名匿名邮箱服务商protonmail](https://protonmail.com/)     
 * [临时邮箱](https://linshiyouxiang.net/)              
 
-### Netflix/奈飞/Youtube/Spotify正规账号合租       
+### Netflix/Youtube/Spotify/HBO正规账号合租       
 * [宝宝龙的奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)
 
 ### Chrome/Edge浏览器拓展插件/实用网站    
