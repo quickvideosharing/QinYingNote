@@ -28,7 +28,8 @@
 ### Netflix/Youtube/Spotify/HBO正规账号合租       
 * [宝宝龙的奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)
 
-### Chrome/Edge浏览器拓展插件/实用网站    
+### Chrome/Edge浏览器拓展插件/实用网站   
+* [拓展插件集锦](https://www.extfans.com/tampermonkey)        
 * [微软官方win10下载地址](https://www.microsoft.com/zh-cn/software-download/windows10)      
 * [MSDN我告诉你](https://msdn.itellyou.cn/)                 
 * [我告诉你](https://next.itellyou.cn)                                      
