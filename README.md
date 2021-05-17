@@ -21,7 +21,9 @@
 
 ### telegram全平台客户端/匿名邮箱 
 * [telegram官方下载地址](https://telegram.org/apps)           
-* [telegram汉化链接](https://t.me/setlanguage/classic-zh)      
+* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
+* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
+* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)    
 * [著名匿名邮箱服务商protonmail](https://protonmail.com/)     
 * [临时邮箱](https://linshiyouxiang.net/)              
 
