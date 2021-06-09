@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/68980375/121420412-a0d18200-c99f-11eb-8c57-3b6939e23e5a.jpg)
 # 沁影的网络备忘录   
 * 博客形式展示（已被墙）：[点我](https://quickvideosharing.github.io/QinYingNote/)           
 * 这是一个导航页，只发沁影上网时学习到的干货，慢慢补充优化，大神轻喷     
