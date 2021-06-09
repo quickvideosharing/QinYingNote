@@ -69,5 +69,4 @@
 * [奈菲影视](https://www.nfmovies.com/)          
 
 本页面合作联系：[沁影](https://t.me/QinShadow)       
-![鸡腿姑娘](./logo.jpg)       
 
