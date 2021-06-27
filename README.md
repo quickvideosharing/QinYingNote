@@ -31,7 +31,7 @@
 * [临时邮箱](https://linshiyouxiang.net/)              
 
 ### Netflix/Youtube/Spotify/HBO正规账号合租       
-* [宝宝龙的奈飞小铺](https://www.naifei.shop/?sid=EyTkXH)
+* [宝宝龙的奈飞小铺](https://nf.run/EyTkXH)
 
 ### Chrome/Edge浏览器拓展插件/实用网站   
 * [拓展插件集锦](https://www.extfans.com/tampermonkey)        
