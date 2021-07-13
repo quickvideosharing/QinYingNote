@@ -1,6 +1,5 @@
-![logo](https://user-images.githubusercontent.com/68980375/121420528-c494c800-c99f-11eb-812d-7f002d842845.jpg)
 # 沁影的网络备忘录   
-* 博客形式展示（已被墙）：[点我](https://quickvideosharing.github.io/QinYingNote/)           
+* [博客](https://quickvideosharing.github.io/QinYingNote/)                 
 * 这是一个导航页，只发沁影上网时学习到的干货，慢慢补充优化，大神轻喷     
 * 注意：本页面大部分链接需要翻墙访问        
 * [ip111.cn全方位查询您的IP地址](http://www.ip111.cn/)                      
@@ -70,5 +69,6 @@
 ## 友情链接         
 * [奈菲影视](https://www.nfmovies.com/)          
 
-本页面合作联系：[沁影](https://t.me/QinShadow)       
+本页面合作联系：[沁影](https://t.me/QinShadow)      
+![logo](https://user-images.githubusercontent.com/68980375/121420528-c494c800-c99f-11eb-812d-7f002d842845.jpg)       
 
